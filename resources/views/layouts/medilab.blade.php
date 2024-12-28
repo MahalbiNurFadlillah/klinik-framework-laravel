@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Medilab </title>
+    <title>Klinik Sentra Garuda</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -47,7 +47,7 @@
         <div class="container d-flex justify-content-between">
             <div class="contact-info d-flex align-items-center">
                 <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">contact@example.com</a>
-                <i class="bi bi-phone"></i> +1 5589 55488 55
+                <i class="bi bi-phone"></i> +623t333453
             </div>
             <div class="d-none d-lg-flex social-links align-items-center">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -62,7 +62,7 @@
     <header id="header" class="fixed-top">
         <div class="container d-flex align-items-center">
 
-            <h1 class="logo me-auto"><a href="index.html">Medilab</a></h1>
+            <h1 class="logo me-auto"><a href="index.html">Klinik Garuda Sentra Medika</a></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo me-auto"><img src="/medilab/assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -87,9 +87,9 @@
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
         <div class="container">
-            <h1>Welcome to Medilab</h1>
-            <h2>We are team of talented designers making websites with Bootstrap</h2>
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <h1>Welcome to Klinik Garuda Sentra Medika</h1>
+            <h2>Silahkan Registrasi di sini!!!</h2>
+            <a href="#appointment" class="btn-get-started scrollto">Registrasi Pasien</a>
         </div>
     </section><!-- End Hero -->
 
@@ -102,12 +102,12 @@
                 <div class="row">
                     <div class="col-lg-4 d-flex align-items-stretch">
                         <div class="content">
-                            <h3>Why Choose Medilab?</h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus
-                                optio ad corporis.
+                            <h3>Sistem Informasi kliik Sentra Garuda</h3>
+                            <p>Sistem Informasi Klinik Sentra Garuda merupakan platform yang memungkinkan pengunjung untuk mendaftar
+                                terlebih dahulu sebelum mengunjungi klinik. Tujuan utamanya adalah memberikan kemudahan kepada pengguna 
+                                dalam proses pendaftaran sebelum datang ke klinik. Platform ini dirancang untuk memfasilitasi pengunjung 
+                                dalam menyelesaikan prosedur administratif sebelum konsultasi medis. Dengan demikian, pengguna dapat menghemat waktu
+                                dan mempercepat proses layanan di klinik.
                             </p>
                             <div class="text-center">
                                 <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -119,26 +119,34 @@
                             <div class="row">
                                 <div class="col-xl-4 d-flex align-items-stretch">
                                     <div class="icon-box mt-4 mt-xl-0">
-                                        <i class="bx bx-receipt"></i>
-                                        <h4>Corporis voluptates sit</h4>
-                                        <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut
-                                            aliquip</p>
+                                    <i class="bx bx-clinic"></i>
+                                    <h4>poli</h4>
+                                    <p>Di klinik kami, kami menghadirkan beragam poli yang siap memberikan perawatan yang Anda butuhkan. Temukan layanan poli
+                                        yang sesuai dengan kebutuhan Anda dan dapatkan perawatan yang berkualitas dari para ahli kami. Dari poli umum hingga poli
+                                        khusus, kami menyediakan pelayanan yang komprehensif untuk memastikan kesehatan dan kesejahteraan Anda.
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 d-flex align-items-stretch">
                                     <div class="icon-box mt-4 mt-xl-0">
-                                        <i class="bx bx-cube-alt"></i>
-                                        <h4>Ullamco laboris ladore pan</h4>
-                                        <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                                            deserunt</p>
+                                        <i class="bx bx-user"></i>
+                                        <h4>Dokter</h4>
+                                        <p>Dalam klinik kami, Anda akan menemukan sejumlah layanan dokter yang profesional dan berkualitas tinggi. Tim dokter kami siap memberikan
+                                            pelayanan yang terbaik untuk memenuhi kebutuhan kesehatan Anda. Dengan beragam spesialisasi dan pengalaman yang luas, kami siap membantu
+                                            Anda dalam perjalanan menuju kesehatan yang optimal. Percayakan perawatan kesehatan Anda kepada kami, di mana setiap pasien diperlakukan
+                                            dengan penuh perhatian dan kepedulian. Segera jadwalkan konsultasi dengan dokter kami dan rasakan perbedaannya di klinik kami.
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 d-flex align-items-stretch">
                                     <div class="icon-box mt-4 mt-xl-0">
-                                        <i class="bx bx-images"></i>
-                                        <h4>Labore consequatur</h4>
-                                        <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis
-                                            facere</p>
+                                        <i class="bx bx-plus-medical"></i>
+                                        <h4>Obat</h4>
+                                        <p>Sistem informasi yang memungkinkan pengelolaan obat secara efisien di Klinik Sentra Garuda.
+                                            Dengan sistem ini, proses pemantauan stok obat, pembelian, dan distribusi dapat dilakukan dengan
+                                            lebih efektif. Hal ini memungkinkan klinik untuk mengelola inventaris obat dengan lebih akurat dan
+                                            memastikan ketersediaan obat yang memadai untuk pasien.
+                                            </p>
                                     </div>
                                 </div>
                             </div>
@@ -158,7 +166,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="count-box">
                             <i class="fas fa-user-md"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
                                 class="purecounter"></span>
                             <p>Doctors</p>
                         </div>
@@ -167,7 +175,7 @@
                     <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
                         <div class="count-box">
                             <i class="far fa-hospital"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="17" data-purecounter-duration="1"
                                 class="purecounter"></span>
                             <p>Departments</p>
                         </div>
@@ -176,7 +184,7 @@
                     <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                         <div class="count-box">
                             <i class="fas fa-flask"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="1"
                                 class="purecounter"></span>
                             <p>Research Labs</p>
                         </div>
@@ -185,7 +193,7 @@
                     <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                         <div class="count-box">
                             <i class="fas fa-award"></i>
-                            <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1"
+                            <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1"
                                 class="purecounter"></span>
                             <p>Awards</p>
                         </div>
@@ -202,9 +210,9 @@
 
                 <div class="section-title">
                     <h2>Layanan Poli</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Kami mempersembahkan beragam layanan poliklinik untuk memenuhi kebutuhan kesehatan Anda. Di klinik kami
+                        Anda dapat menemukan tim medis terbaik yang siap memberikan perawatan yang berkualitas dan personal.
+                        Berikut adalah beberapa layanan poliklinik yang kami tawarkan.</p>
                 </div>
 
                 <div class="row">
@@ -227,9 +235,8 @@
 
                 <div class="section-title">
                     <h2>Doctors</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Inih adalah informasi lengkap mengenai para dokter yang bekerja di Klinik Garuda sentra
+                        Kami menyediakan biodata serta pengalaman profesional mereka Dengan beragam spesialisasi dan keahlian.</p>
                 </div>
 
                 <div class="row">
@@ -247,7 +254,7 @@
                                 <div class="member-info">
                                     <h4>{{ $item->nama_dokter }}</h4>
                                     <span>Spesialis {{ $item->spesialis }}</span>
-                                    <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                                    <!-- <p>Explicabo voluptatem mollitia</p> -->
                                     <div class="social">
                                         <a href="{{ $item->twitter }}"><i class="ri-twitter-fill"></i></a>
                                         <a href="{{ $item->facebook }}"><i class="ri-facebook-fill"></i></a>
@@ -270,222 +277,24 @@
 
                 <div class="section-title">
                     <h2>REGISTRASI PASIEN</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Silakan isi formulir pendaftaran di bawah ini untuk mendaftarkan diri sebagai pasien kami.
+                        Kami akan segera menghubungi Anda setelah pendaftaran Anda selesai sesuai rencana Yang anda pilih.
+                    </p>
                 </div>
                 @include('flash::message')
                 @yield('content')
             </div>
         </section><!-- End Appointment Section -->
-
-
-
-        <!-- ======= Frequently Asked Questions Section ======= -->
-        <section id="faq" class="faq section-bg">
-            <div class="container">
-
-                <div class="section-title">
-                    <h2>Frequently Asked Questions</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-                </div>
-
-                <div class="faq-list">
-                    <ul>
-                        <li data-aos="fade-up">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
-                                data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i
-                                    class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
-                                <p>
-                                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet
-                                    non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor
-                                    purus non.
-                                </p>
-                            </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="100">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim
-                                nunc? <i class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum
-                                    velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend
-                                    donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in
-                                    cursus turpis massa tincidunt dui.
-                                </p>
-                            </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="200">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing
-                                elit? <i class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus
-                                    pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit.
-                                    Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis
-                                    tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                                </p>
-                            </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="300">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam
-                                aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in
-                                    est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl
-                                    suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
-                                </p>
-                            </div>
-                        </li>
-
-                        <li data-aos="fade-up" data-aos-delay="400">
-                            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare.
-                                Varius vel pharetra vel turpis nunc eget lorem dolor? <i
-                                    class="bx bx-chevron-down icon-show"></i><i
-                                    class="bx bx-chevron-up icon-close"></i></a>
-                            <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                                <p>
-                                    Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo
-                                    integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc
-                                    eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
-                                </p>
-                            </div>
-                        </li>
-
-                    </ul>
-                </div>
-
-            </div>
-        </section><!-- End Frequently Asked Questions Section -->
-
-        <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials">
-            <div class="container">
-
-                <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="/medilab/assets/img/testimonials/testimonials-1.jpg"
-                                        class="testimonial-img" alt="">
-                                    <h3>Saul Goodman</h3>
-                                    <h4>Ceo &amp; Founder</h4>
-                                    <p>
-                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                        Proin iaculis purus consequat sem cure digni ssim donec porttitora entum
-                                        suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et.
-                                        Maecen aliquam, risus at semper.
-                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="/medilab/assets/img/testimonials/testimonials-2.jpg"
-                                        class="testimonial-img" alt="">
-                                    <h3>Sara Wilsson</h3>
-                                    <h4>Designer</h4>
-                                    <p>
-                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                        Export tempor illum tamen malis malis eram quae irure esse labore quem cillum
-                                        quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat
-                                        irure amet legam anim culpa.
-                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="/medilab/assets/img/testimonials/testimonials-3.jpg"
-                                        class="testimonial-img" alt="">
-                                    <h3>Jena Karlis</h3>
-                                    <h4>Store Owner</h4>
-                                    <p>
-                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                        Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem
-                                        veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis
-                                        sint minim.
-                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="/medilab/assets/img/testimonials/testimonials-4.jpg"
-                                        class="testimonial-img" alt="">
-                                    <h3>Matt Brandon</h3>
-                                    <h4>Freelancer</h4>
-                                    <p>
-                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                        Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim
-                                        fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore
-                                        quem dolore labore illum veniam.
-                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-wrap">
-                                <div class="testimonial-item">
-                                    <img src="/medilab/assets/img/testimonials/testimonials-5.jpg"
-                                        class="testimonial-img" alt="">
-                                    <h3>John Larson</h3>
-                                    <h4>Entrepreneur</h4>
-                                    <p>
-                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                        Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor
-                                        noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam
-                                        esse veniam culpa fore nisi cillum quid.
-                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </section><!-- End Testimonials Section -->
-
+        
         <!-- ======= Gallery Section ======= -->
         <section id="gallery" class="gallery">
             <div class="container">
 
                 <div class="section-title">
                     <h2>Gallery</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Jelajahi galeri kami untuk melihat berbagai sudut klinik kami. Kami menawarkan pemandangan dari setiap ruang perawatan,
+                        fasilitas terbaru kami, serta lingkungan yang nyaman bagi pasien. Dari ruang tunggu yang bersih hingga ruang perawatan yang modern,
+                        kami berkomitmen untuk memberikan pengalaman yang menyenangkan bagi setiap pasien kami.</p>
                 </div>
             </div>
 
@@ -494,8 +303,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-1.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-1.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g11.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g11.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -503,8 +312,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-2.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-2.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g12.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g12.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -512,8 +321,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-3.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-3.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g13.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g13.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -521,8 +330,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-4.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-4.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g14.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g14.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -530,8 +339,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-5.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-5.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g15.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g15.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -539,8 +348,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-6.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-6.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g16.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g16.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -548,8 +357,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-7.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-7.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g17.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g17.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -557,8 +366,8 @@
 
                     <div class="col-lg-3 col-md-4">
                         <div class="gallery-item">
-                            <a href="/medilab/assets/img/gallery/gallery-8.jpg" class="galelry-lightbox">
-                                <img src="/medilab/assets/img/gallery/gallery-8.jpg" alt=""
+                            <a href="/medilab/assets/img/gallery/g18.jpg" class="galelry-lightbox">
+                                <img src="/medilab/assets/img/gallery/g18.jpg" alt=""
                                     class="img-fluid">
                             </a>
                         </div>
@@ -575,15 +384,16 @@
 
                 <div class="section-title">
                     <h2>Contact</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                    <p>Tim kami siap membantu Anda dengan pertanyaan 
+                        apa pun yang Anda miliki tentang layanan kami, jadwal praktek, atau hal lain yang berkaitan dengan klinik kami. Kami dapat 
+                        dihubungi melalui telepon,email. Terima kasih atas minat dan kepercayaan Anda pada layanan kami. 
+                    </p>
                 </div>
             </div>
 
             <div>
                 <iframe style="border:0; width: 100%; height: 350px;"
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126906.76505576247!2d106.5493308972656!3d-6.2852238999999885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69effd5eeba6e3%3A0x4d9daf10049e1670!2sKlinik%20Garuda%20Sentra%20Medika%20Bintaro!5e0!3m2!1sid!2sid!4v1710827865713!5m2!1sid!2sid"
                     frameborder="0" allowfullscreen></iframe>
             </div>
 
@@ -595,7 +405,7 @@
                             <div class="address">
                                 <i class="bi bi-geo-alt"></i>
                                 <h4>Location:</h4>
-                                <p>A108 Adam Street, New York, NY 535022</p>
+                                <p>Ruko Elang Raya Kavling 1 No. 10-11, JL. Bintaro Jaya, Sektor 9 Kavling 1, Bintaro Jaya, Parigi, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 11730</p>
                             </div>
 
                             <div class="email">
@@ -607,7 +417,7 @@
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+1 5589 55488 55s</p>
+                                <p>(021)6247223</p>
                             </div>
 
                         </div>
@@ -659,12 +469,12 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>Medilab</h3>
+                        <h3>Klinik Sentra Garuda</h3>
                         <p>
-                            A108 Adam Street <br>
-                            New York, NY 535022<br>
-                            United States <br><br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
+                        Ruko Elang Raya Kavling 1 No. 10-11, JL. Bintaro Jaya, Sektor 9 Kavling 1, Bintaro Jaya, Parigi, Kec. Pd. Aren, Kota Tangerang Selatan, Banten 11730 <br>
+                            <br>
+                             <br><br>
+                            <strong>Phone:</strong> (021)6247223<br>
                             <strong>Email:</strong> info@example.com<br>
                         </p>
                     </div>
@@ -691,13 +501,13 @@
                         </ul>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 footer-newsletter">
+                    <!-- <div class="col-lg-4 col-md-6 footer-newsletter">
                         <h4>Join Our Newsletter</h4>
                         <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
@@ -707,14 +517,14 @@
 
             <div class="me-md-auto text-center text-md-start">
                 <div class="copyright">
-                    &copy; Copyright <strong><span>Medilab</span></strong>. All Rights Reserved
+                    &copy; Copyright <strong><span>Klinik Sentra Garuda</span></strong>. All Rights Reserved
                 </div>
                 <div class="credits">
                     <!-- All the links in the footer should remain intact. -->
                     <!-- You can delete the links only if you purchased the pro version. -->
                     <!-- Licensing information: https://bootstrapmade.com/license/ -->
                     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/ -->
-                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                    Designed by <a href="https://bootstrapmade.com/">Kelompok 6</a>
                 </div>
             </div>
             <div class="social-links text-center text-md-right pt-3 pt-md-0">

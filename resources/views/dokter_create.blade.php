@@ -24,6 +24,17 @@
                         <option value="tht" @selected(old('spesialis') == 'tht')> Spesialis THT</option>
                         <option value="jantung" @selected(old('spesialis') == 'jantung')> Spesialis Jantung</option>
                         <option value="paru" @selected(old('spesialis') == 'paru')> Spesialis Paru</option>
+                        <option value="Gigi" @selected(old('spesialis') == 'Gigi')> Spesialis Gigi</option>
+                        <option value="umum" @selected(old('spesialis') == 'umum')>Spesialis Umum</option>
+                        <option value="anak" @selected(old('spesialis') == 'anak')>Spesialis Anak</option>
+                        <option value="penyakit_dalam" @selected(old('spesialis') == 'penyakit_dalam')>Spesialis Penyakit Dalam</option>
+                        <option value="bedah_orthopedi" @selected(old('spesialis') == 'bedah_orthopedi')>Spesialis Bedah Orthopedi</option>
+                        <option value="kulit" @selected(old('spesialis') == 'kulit')>Spesialis Kulit</option>
+                        <option value="gizi" @selected(old('spesialis') == 'gizi')>Spesialis Gizi</option>
+                        <option value="saraf" @selected(old('spesialis') == 'saraf')>Spesialis Saraf</option>
+                        <option value="radiologi" @selected(old('spesialis') == 'radiologi')>Spesialis Radiologi</option>
+                        <option value="psikiater" @selected(old('spesialis') == 'psikiater')>Spesialis Psikiater</option>
+                        <option value="ginjal" @selected(old('spesialis') == 'ginjal')>Spesialis Ginjal</option>
                     </select>
                     <span class="text-danger">{{ $errors->first('spesialis') }}</span>
                 </div>

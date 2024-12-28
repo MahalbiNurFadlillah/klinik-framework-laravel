@@ -23,7 +23,11 @@
                         <dt class="col-sm-2">Spesialis</dt>
                         <dd class="col-sm-10">: {{ $dokter->spesialis }}</dd>
                         <dt class="col-sm-2">Username</dt>
-                        <dd class="col-sm-10">: {{ $dokter->user->email }}</dd>
+                        @if($dokter->user)
+                            <dd class="col-sm-10">: {{ $dokter->user->email }}</dd>
+                        @else
+                            <dd class="col-sm-10">: Tidak ada informasi pengguna terkait</dd>
+                        @endif
                     </dl>
                 </div>
             </div>

@@ -33,11 +33,13 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/">
-                <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fas fa-laugh-wink"></i>
-                </div>
-                <div class="sidebar-brand-text mx-1">{{ env('APP_NAME') }}</div>
-            </a>
+            <div class="sidebar-brand-icon rotate-n-15">
+            <i class="fas fa-user-md"></i>
+
+            </div>
+            <div class="sidebar-brand-text mx-1">Klinik Garuda Sentra Medika</div>
+</a>
+
 
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
@@ -337,7 +339,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Your Website 2021</span>
+                        <span>Copyright &copy; kelompok 6 2024</span>
                     </div>
                 </div>
             </footer>
